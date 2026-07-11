@@ -15,4 +15,4 @@
 ## 目前收錄
 
 - [`slavingia-skills/`](slavingia-skills/) — 來自 [slavingia/skills](https://github.com/slavingia/skills) 的 skill 集合（validate-idea、mvp、pricing、first-customers、marketing-plan、find-community、grow-sustainably、company-values、processize、minimalist-review）。
-- `gbrain-install.md` — gbrain AI agent memory system 安裝說明（早於本規則，存於根目錄）。
+- [`gbrain-install/`](gbrain-install/) — gbrain AI agent memory system 安裝說明。
